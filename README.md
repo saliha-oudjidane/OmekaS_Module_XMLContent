@@ -13,7 +13,7 @@ The XMLContent module retrieves the contents of an XML file (Read content betwee
 
 # Install:
 
-- Download the zipper file to the release, and place it in the Omekas "modules" file.
+- Download the zipper file to the release(OmekaS_Module_XMLContent.rar), and place it in the Omekas "modules" file.
 
 # Use: 
 
