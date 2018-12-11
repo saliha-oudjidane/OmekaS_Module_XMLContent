@@ -17,6 +17,6 @@ The XMLContent module retrieves the contents of an XML file (Read content betwee
 
 # Use: 
 
-go to omekas and follow the next steps :
+- Go to omekas and follow the next steps :
 
  item => Add new item => Value => Media => Upload => cliquer sur "Choisir un fichier" => Add
