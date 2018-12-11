@@ -1,7 +1,7 @@
 # Module_Omeka's_XMLContent :
 
 # Goal:
-This module is developed as part of a project for the Master 2 Technology of Hypermedia at Paris 8 University
+This module is developed as part of a project for the Master 2 Technology of Hypermedia at Paris 8 University.
 The XMLContent module retrieves the contents of an XML file (Read content between XML tags).
 
 ![alt tag](https://user-images.githubusercontent.com/35006951/49754815-63e58100-fcb7-11e8-8a57-65e63e3c2489.PNG)
